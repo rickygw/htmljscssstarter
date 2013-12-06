@@ -20,7 +20,6 @@ define([
 		// instances
 		// ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 
-		Config.Canvas = new Canvas();
 		Config.App = this;
 
 	};
